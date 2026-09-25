@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="severity_mild">#FF4CAF50</color>
+    <color name="severity_moderate">#FFFF9800</color>
+    <color name="severity_severe">#FFF44336</color>
+</resources>
